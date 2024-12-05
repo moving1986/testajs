@@ -1,0 +1,14 @@
+{
+  "name": "testajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moving1986/ajs": "^1.0.0"
+  }
+}
